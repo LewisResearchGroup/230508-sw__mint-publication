@@ -1,0 +1,169 @@
+File name,File format,Read time [s],Mode,File size [MB]
+./input/MTBLS1569/data/mzXML/Tx_6h_R4.mzXML,mzXML,1.0833163261413574,Read only,40.33705139160156
+./input/MTBLS1569/data/mzXML/Tx_6h_R4.mzXML,mzXML,1.5581166744232178,Format,40.33705139160156
+./input/MTBLS1569/data/mzXML/Tx_3h_R4.mzXML,mzXML,0.9484527111053467,Read only,44.39406490325928
+./input/MTBLS1569/data/mzXML/Tx_3h_R4.mzXML,mzXML,1.6357526779174805,Format,44.39406490325928
+./input/MTBLS1569/data/mzXML/Tx_3h_R3.mzXML,mzXML,0.95658278465271,Read only,45.24814510345459
+./input/MTBLS1569/data/mzXML/Tx_3h_R3.mzXML,mzXML,1.6569068431854248,Format,45.24814510345459
+./input/MTBLS1569/data/mzXML/Tx_1h_R3.mzXML,mzXML,0.9452440738677979,Read only,43.297407150268555
+./input/MTBLS1569/data/mzXML/Tx_1h_R3.mzXML,mzXML,1.6165556907653809,Format,43.297407150268555
+./input/MTBLS1569/data/mzXML/Tx_6h_R3.mzXML,mzXML,0.9290673732757568,Read only,39.334815979003906
+./input/MTBLS1569/data/mzXML/Tx_6h_R3.mzXML,mzXML,1.6650643348693848,Format,39.334815979003906
+./input/MTBLS1569/data/mzXML/Tx_6h_R1.mzXML,mzXML,0.9250442981719971,Read only,41.64083290100098
+./input/MTBLS1569/data/mzXML/Tx_6h_R1.mzXML,mzXML,1.6969945430755615,Format,41.64083290100098
+./input/MTBLS1569/data/mzXML/Tx_1h_R4.mzXML,mzXML,0.9424359798431396,Read only,42.4964017868042
+./input/MTBLS1569/data/mzXML/Tx_1h_R4.mzXML,mzXML,1.7219583988189697,Format,42.4964017868042
+./input/MTBLS1569/data/mzXML/Tx_3h_R2.mzXML,mzXML,0.9693224430084229,Read only,44.50626564025879
+./input/MTBLS1569/data/mzXML/Tx_3h_R2.mzXML,mzXML,1.7735435962677002,Format,44.50626564025879
+./input/MTBLS1569/data/mzXML/Tx_1h_R2.mzXML,mzXML,0.9552996158599854,Read only,43.99014377593994
+./input/MTBLS1569/data/mzXML/Tx_1h_R2.mzXML,mzXML,1.768113374710083,Format,43.99014377593994
+./input/MTBLS1569/data/mzXML/Tx_6h_R2.mzXML,mzXML,0.9117875099182129,Read only,39.90422058105469
+./input/MTBLS1569/data/mzXML/Tx_6h_R2.mzXML,mzXML,1.6827259063720703,Format,39.90422058105469
+./input/MTBLS1569/data/mzXML/Tx_3h_R1.mzXML,mzXML,0.9990010261535645,Read only,43.78622817993164
+./input/MTBLS1569/data/mzXML/Tx_3h_R1.mzXML,mzXML,1.7574975490570068,Format,43.78622817993164
+./input/MTBLS1569/data/mzXML/Tx_1h_R1.mzXML,mzXML,0.7600252628326416,Read only,42.841511726379395
+./input/MTBLS1569/data/mzXML/Tx_1h_R1.mzXML,mzXML,1.7367942333221436,Format,42.841511726379395
+./input/MTBLS1569/data/mzML/Tx_1h_R3.mzML,mzML,1.5669775009155273,Read only,43.54013729095459
+./input/MTBLS1569/data/mzML/Tx_1h_R3.mzML,mzML,3.743790864944458,Format,43.54013729095459
+./input/MTBLS1569/data/mzML/Tx_6h_R3.mzML,mzML,1.564293622970581,Read only,40.66674041748047
+./input/MTBLS1569/data/mzML/Tx_6h_R3.mzML,mzML,3.762242555618286,Format,40.66674041748047
+./input/MTBLS1569/data/mzML/Tx_6h_R2.mzML,mzML,1.5823357105255127,Read only,41.08791255950928
+./input/MTBLS1569/data/mzML/Tx_6h_R2.mzML,mzML,3.5483129024505615,Format,41.08791255950928
+./input/MTBLS1569/data/mzML/Tx_1h_R1.mzML,mzML,1.5239956378936768,Read only,43.209757804870605
+./input/MTBLS1569/data/mzML/Tx_1h_R1.mzML,mzML,3.66713809967041,Format,43.209757804870605
+./input/MTBLS1569/data/mzML/Tx_1h_R4.mzML,mzML,1.5560157299041748,Read only,42.95087909698486
+./input/MTBLS1569/data/mzML/Tx_1h_R4.mzML,mzML,3.81600284576416,Format,42.95087909698486
+./input/MTBLS1569/data/mzML/Tx_3h_R1.mzML,mzML,1.5642330646514893,Read only,43.886526107788086
+./input/MTBLS1569/data/mzML/Tx_3h_R1.mzML,mzML,3.756624221801758,Format,43.886526107788086
+./input/MTBLS1569/data/mzML/Tx_3h_R4.mzML,mzML,1.5544462203979492,Read only,44.35973930358887
+./input/MTBLS1569/data/mzML/Tx_3h_R4.mzML,mzML,3.572941541671753,Format,44.35973930358887
+./input/MTBLS1569/data/mzML/Tx_3h_R2.mzML,mzML,1.560865879058838,Read only,44.43228054046631
+./input/MTBLS1569/data/mzML/Tx_3h_R2.mzML,mzML,3.7054390907287598,Format,44.43228054046631
+./input/MTBLS1569/data/mzML/Tx_6h_R1.mzML,mzML,1.5687406063079834,Read only,42.34985065460205
+./input/MTBLS1569/data/mzML/Tx_6h_R1.mzML,mzML,3.864675760269165,Format,42.34985065460205
+./input/MTBLS1569/data/mzML/Tx_3h_R3.mzML,mzML,1.6762654781341553,Read only,45.00336742401123
+./input/MTBLS1569/data/mzML/Tx_3h_R3.mzML,mzML,3.725123882293701,Format,45.00336742401123
+./input/MTBLS1569/data/mzML/Tx_1h_R2.mzML,mzML,1.575331211090088,Read only,44.07998466491699
+./input/MTBLS1569/data/mzML/Tx_1h_R2.mzML,mzML,3.5485432147979736,Format,44.07998466491699
+./input/MTBLS1569/data/mzML/Tx_6h_R4.mzML,mzML,1.575570821762085,Read only,41.43864917755127
+./input/MTBLS1569/data/mzML/Tx_6h_R4.mzML,mzML,3.969261407852173,Format,41.43864917755127
+./input/MTBLS1569/data/mzMLb/Tx_6h_R4.mzMLb,mzMLb,1.940572738647461,Read only,13.730826377868652
+./input/MTBLS1569/data/mzMLb/Tx_6h_R4.mzMLb,mzMLb,7.033736944198608,Format,13.730826377868652
+./input/MTBLS1569/data/mzMLb/Tx_1h_R4.mzMLb,mzMLb,1.8512530326843262,Read only,14.358610153198242
+./input/MTBLS1569/data/mzMLb/Tx_1h_R4.mzMLb,mzMLb,6.530885219573975,Format,14.358610153198242
+./input/MTBLS1569/data/mzMLb/Tx_6h_R2.mzMLb,mzMLb,1.861644983291626,Read only,13.601322174072266
+./input/MTBLS1569/data/mzMLb/Tx_6h_R2.mzMLb,mzMLb,6.653330326080322,Format,13.601322174072266
+./input/MTBLS1569/data/mzMLb/Tx_1h_R3.mzMLb,mzMLb,2.072598934173584,Read only,14.605381965637207
+./input/MTBLS1569/data/mzMLb/Tx_1h_R3.mzMLb,mzMLb,7.430385112762451,Format,14.605381965637207
+./input/MTBLS1569/data/mzMLb/Tx_3h_R4.mzMLb,mzMLb,1.9133164882659912,Read only,14.94882583618164
+./input/MTBLS1569/data/mzMLb/Tx_3h_R4.mzMLb,mzMLb,7.046412229537964,Format,14.94882583618164
+./input/MTBLS1569/data/mzMLb/Tx_3h_R3.mzMLb,mzMLb,1.8706753253936768,Read only,15.10177230834961
+./input/MTBLS1569/data/mzMLb/Tx_3h_R3.mzMLb,mzMLb,7.060614109039307,Format,15.10177230834961
+./input/MTBLS1569/data/mzMLb/Tx_1h_R2.mzMLb,mzMLb,1.8913815021514893,Read only,14.817373275756836
+./input/MTBLS1569/data/mzMLb/Tx_1h_R2.mzMLb,mzMLb,7.599142789840698,Format,14.817373275756836
+./input/MTBLS1569/data/mzMLb/Tx_6h_R3.mzMLb,mzMLb,1.8567860126495361,Read only,13.422667503356934
+./input/MTBLS1569/data/mzMLb/Tx_6h_R3.mzMLb,mzMLb,6.4410035610198975,Format,13.422667503356934
+./input/MTBLS1569/data/mzMLb/Tx_6h_R1.mzMLb,mzMLb,1.9115073680877686,Read only,14.107221603393555
+./input/MTBLS1569/data/mzMLb/Tx_6h_R1.mzMLb,mzMLb,6.9029014110565186,Format,14.107221603393555
+./input/MTBLS1569/data/mzMLb/Tx_3h_R2.mzMLb,mzMLb,1.8695783615112305,Read only,14.980010032653809
+./input/MTBLS1569/data/mzMLb/Tx_3h_R2.mzMLb,mzMLb,6.884228229522705,Format,14.980010032653809
+./input/MTBLS1569/data/mzMLb/Tx_3h_R1.mzMLb,mzMLb,2.1372146606445312,Read only,14.749497413635254
+./input/MTBLS1569/data/mzMLb/Tx_3h_R1.mzMLb,mzMLb,7.3868231773376465,Format,14.749497413635254
+./input/MTBLS1569/data/mzMLb/Tx_1h_R1.mzMLb,mzMLb,1.7221648693084717,Read only,14.460017204284668
+./input/MTBLS1569/data/mzMLb/Tx_1h_R1.mzMLb,mzMLb,6.686109304428101,Format,14.460017204284668
+./input/MTBLS1569/data/parquet/ThermoRawFileReader/Tx_6h_R3.parquet,parquet-TRR,0.17710471153259277,Read only,13.196395874023438
+./input/MTBLS1569/data/parquet/ThermoRawFileReader/Tx_6h_R3.parquet,parquet-TRR,0.8837072849273682,Format,13.196395874023438
+./input/MTBLS1569/data/parquet/ThermoRawFileReader/Tx_6h_R2.parquet,parquet-TRR,0.16823077201843262,Read only,13.411232948303223
+./input/MTBLS1569/data/parquet/ThermoRawFileReader/Tx_6h_R2.parquet,parquet-TRR,0.8813934326171875,Format,13.411232948303223
+./input/MTBLS1569/data/parquet/ThermoRawFileReader/Tx_6h_R4.parquet,parquet-TRR,0.17502164840698242,Read only,13.55146598815918
+./input/MTBLS1569/data/parquet/ThermoRawFileReader/Tx_6h_R4.parquet,parquet-TRR,0.8648116588592529,Format,13.55146598815918
+./input/MTBLS1569/data/parquet/ThermoRawFileReader/Tx_3h_R3.parquet,parquet-TRR,0.20492267608642578,Read only,15.384835243225098
+./input/MTBLS1569/data/parquet/ThermoRawFileReader/Tx_3h_R3.parquet,parquet-TRR,1.0238981246948242,Format,15.384835243225098
+./input/MTBLS1569/data/parquet/ThermoRawFileReader/Tx_1h_R2.parquet,parquet-TRR,0.18971586227416992,Read only,14.909710884094238
+./input/MTBLS1569/data/parquet/ThermoRawFileReader/Tx_1h_R2.parquet,parquet-TRR,0.9812169075012207,Format,14.909710884094238
+./input/MTBLS1569/data/parquet/ThermoRawFileReader/Tx_1h_R4.parquet,parquet-TRR,0.19150662422180176,Read only,14.345766067504883
+./input/MTBLS1569/data/parquet/ThermoRawFileReader/Tx_1h_R4.parquet,parquet-TRR,0.9464056491851807,Format,14.345766067504883
+./input/MTBLS1569/data/parquet/ThermoRawFileReader/Tx_6h_R1.parquet,parquet-TRR,0.18074893951416016,Read only,14.041315078735352
+./input/MTBLS1569/data/parquet/ThermoRawFileReader/Tx_6h_R1.parquet,parquet-TRR,0.9359238147735596,Format,14.041315078735352
+./input/MTBLS1569/data/parquet/ThermoRawFileReader/Tx_3h_R1.parquet,parquet-TRR,0.1887190341949463,Read only,14.830223083496094
+./input/MTBLS1569/data/parquet/ThermoRawFileReader/Tx_3h_R1.parquet,parquet-TRR,0.9569165706634521,Format,14.830223083496094
+./input/MTBLS1569/data/parquet/ThermoRawFileReader/Tx_1h_R1.parquet,parquet-TRR,0.0874931812286377,Read only,14.47321891784668
+./input/MTBLS1569/data/parquet/ThermoRawFileReader/Tx_1h_R1.parquet,parquet-TRR,0.9549360275268555,Format,14.47321891784668
+./input/MTBLS1569/data/parquet/ThermoRawFileReader/Tx_3h_R4.parquet,parquet-TRR,0.18784809112548828,Read only,15.067749977111816
+./input/MTBLS1569/data/parquet/ThermoRawFileReader/Tx_3h_R4.parquet,parquet-TRR,0.9630506038665771,Format,15.067749977111816
+./input/MTBLS1569/data/parquet/ThermoRawFileReader/Tx_3h_R2.parquet,parquet-TRR,0.19063138961791992,Read only,15.10092830657959
+./input/MTBLS1569/data/parquet/ThermoRawFileReader/Tx_3h_R2.parquet,parquet-TRR,0.957909345626831,Format,15.10092830657959
+./input/MTBLS1569/data/parquet/ThermoRawFileReader/Tx_1h_R3.parquet,parquet-TRR,0.19787812232971191,Read only,14.638553619384766
+./input/MTBLS1569/data/parquet/ThermoRawFileReader/Tx_1h_R3.parquet,parquet-TRR,0.9470498561859131,Format,14.638553619384766
+./input/MTBLS1569/data/parquet/Mint/Tx_6h_R3.parquet,parquet-Mint,0.17161202430725098,Read only,14.167394638061523
+./input/MTBLS1569/data/parquet/Mint/Tx_6h_R3.parquet,parquet-Mint,0.09179496765136719,Format,14.167394638061523
+./input/MTBLS1569/data/parquet/Mint/Tx_6h_R2.parquet,parquet-Mint,0.14403009414672852,Read only,14.2394380569458
+./input/MTBLS1569/data/parquet/Mint/Tx_6h_R2.parquet,parquet-Mint,0.08824992179870605,Format,14.2394380569458
+./input/MTBLS1569/data/parquet/Mint/Tx_6h_R4.parquet,parquet-Mint,0.17220616340637207,Read only,14.841448783874512
+./input/MTBLS1569/data/parquet/Mint/Tx_6h_R4.parquet,parquet-Mint,0.09953474998474121,Format,14.841448783874512
+./input/MTBLS1569/data/parquet/Mint/Tx_3h_R3.parquet,parquet-Mint,0.1756119728088379,Read only,16.423550605773926
+./input/MTBLS1569/data/parquet/Mint/Tx_3h_R3.parquet,parquet-Mint,0.10037684440612793,Format,16.423550605773926
+./input/MTBLS1569/data/parquet/Mint/Tx_1h_R2.parquet,parquet-Mint,0.1817162036895752,Read only,15.99204158782959
+./input/MTBLS1569/data/parquet/Mint/Tx_1h_R2.parquet,parquet-Mint,0.09396243095397949,Format,15.99204158782959
+./input/MTBLS1569/data/parquet/Mint/Tx_1h_R4.parquet,parquet-Mint,0.16218113899230957,Read only,15.054182052612305
+./input/MTBLS1569/data/parquet/Mint/Tx_1h_R4.parquet,parquet-Mint,0.10185956954956055,Format,15.054182052612305
+./input/MTBLS1569/data/parquet/Mint/Tx_6h_R1.parquet,parquet-Mint,0.156630277633667,Read only,14.766231536865234
+./input/MTBLS1569/data/parquet/Mint/Tx_6h_R1.parquet,parquet-Mint,0.09356141090393066,Format,14.766231536865234
+./input/MTBLS1569/data/parquet/Mint/Tx_3h_R1.parquet,parquet-Mint,0.17338347434997559,Read only,15.48039436340332
+./input/MTBLS1569/data/parquet/Mint/Tx_3h_R1.parquet,parquet-Mint,0.10213232040405273,Format,15.48039436340332
+./input/MTBLS1569/data/parquet/Mint/Tx_1h_R1.parquet,parquet-Mint,0.08271121978759766,Read only,15.224825859069824
+./input/MTBLS1569/data/parquet/Mint/Tx_1h_R1.parquet,parquet-Mint,0.09487652778625488,Format,15.224825859069824
+./input/MTBLS1569/data/parquet/Mint/Tx_3h_R4.parquet,parquet-Mint,0.1750197410583496,Read only,16.000693321228027
+./input/MTBLS1569/data/parquet/Mint/Tx_3h_R4.parquet,parquet-Mint,0.09791111946105957,Format,16.000693321228027
+./input/MTBLS1569/data/parquet/Mint/Tx_3h_R2.parquet,parquet-Mint,0.17436528205871582,Read only,15.879860877990723
+./input/MTBLS1569/data/parquet/Mint/Tx_3h_R2.parquet,parquet-Mint,0.09944725036621094,Format,15.879860877990723
+./input/MTBLS1569/data/parquet/Mint/Tx_1h_R3.parquet,parquet-Mint,0.1689302921295166,Read only,15.399971008300781
+./input/MTBLS1569/data/parquet/Mint/Tx_1h_R3.parquet,parquet-Mint,0.09437441825866699,Format,15.399971008300781
+./input/MTBLS1569/data/feather/from_mzXML/Tx_1h_R4.feather,feather-from-mzXML,0.1786048412322998,Read only,22.883005142211914
+./input/MTBLS1569/data/feather/from_mzXML/Tx_1h_R4.feather,feather-from-mzXML,0.07699871063232422,Format,22.883005142211914
+./input/MTBLS1569/data/feather/from_mzXML/Tx_6h_R3.feather,feather-from-mzXML,0.1606595516204834,Read only,21.156137466430664
+./input/MTBLS1569/data/feather/from_mzXML/Tx_6h_R3.feather,feather-from-mzXML,0.07410526275634766,Format,21.156137466430664
+./input/MTBLS1569/data/feather/from_mzXML/Tx_6h_R2.feather,feather-from-mzXML,0.17056775093078613,Read only,21.46628761291504
+./input/MTBLS1569/data/feather/from_mzXML/Tx_6h_R2.feather,feather-from-mzXML,0.0750892162322998,Format,21.46628761291504
+./input/MTBLS1569/data/feather/from_mzXML/Tx_3h_R2.feather,feather-from-mzXML,0.18208765983581543,Read only,24.0208683013916
+./input/MTBLS1569/data/feather/from_mzXML/Tx_3h_R2.feather,feather-from-mzXML,0.08371901512145996,Format,24.0208683013916
+./input/MTBLS1569/data/feather/from_mzXML/Tx_3h_R1.feather,feather-from-mzXML,0.18473124504089355,Read only,23.602754592895508
+./input/MTBLS1569/data/feather/from_mzXML/Tx_3h_R1.feather,feather-from-mzXML,0.0773162841796875,Format,23.602754592895508
+./input/MTBLS1569/data/feather/from_mzXML/Tx_6h_R4.feather,feather-from-mzXML,0.17477798461914062,Read only,21.759248733520508
+./input/MTBLS1569/data/feather/from_mzXML/Tx_6h_R4.feather,feather-from-mzXML,0.07491922378540039,Format,21.759248733520508
+./input/MTBLS1569/data/feather/from_mzXML/Tx_6h_R1.feather,feather-from-mzXML,0.18018388748168945,Read only,22.406518936157227
+./input/MTBLS1569/data/feather/from_mzXML/Tx_6h_R1.feather,feather-from-mzXML,0.078155517578125,Format,22.406518936157227
+./input/MTBLS1569/data/feather/from_mzXML/Tx_1h_R2.feather,feather-from-mzXML,0.18188905715942383,Read only,23.757646560668945
+./input/MTBLS1569/data/feather/from_mzXML/Tx_1h_R2.feather,feather-from-mzXML,0.08122420310974121,Format,23.757646560668945
+./input/MTBLS1569/data/feather/from_mzXML/Tx_3h_R4.feather,feather-from-mzXML,0.204054594039917,Read only,23.97184181213379
+./input/MTBLS1569/data/feather/from_mzXML/Tx_3h_R4.feather,feather-from-mzXML,0.08333396911621094,Format,23.97184181213379
+./input/MTBLS1569/data/feather/from_mzXML/Tx_3h_R3.feather,feather-from-mzXML,0.23733878135681152,Read only,24.456071853637695
+./input/MTBLS1569/data/feather/from_mzXML/Tx_3h_R3.feather,feather-from-mzXML,0.20055770874023438,Format,24.456071853637695
+./input/MTBLS1569/data/feather/from_mzXML/Tx_1h_R1.feather,feather-from-mzXML,0.16054773330688477,Read only,23.077730178833008
+./input/MTBLS1569/data/feather/from_mzXML/Tx_1h_R1.feather,feather-from-mzXML,0.19350552558898926,Format,23.077730178833008
+./input/MTBLS1569/data/feather/from_mzXML/Tx_1h_R3.feather,feather-from-mzXML,0.23988771438598633,Read only,23.336923599243164
+./input/MTBLS1569/data/feather/from_mzXML/Tx_1h_R3.feather,feather-from-mzXML,0.1810288429260254,Format,23.336923599243164
+./input/MTBLS1569/data/feather/from_mzML/Tx_1h_R4.feather,feather-from-mzML,0.23556089401245117,Read only,22.883066177368164
+./input/MTBLS1569/data/feather/from_mzML/Tx_1h_R4.feather,feather-from-mzML,0.17642927169799805,Format,22.883066177368164
+./input/MTBLS1569/data/feather/from_mzML/Tx_6h_R3.feather,feather-from-mzML,0.22539424896240234,Read only,21.156282424926758
+./input/MTBLS1569/data/feather/from_mzML/Tx_6h_R3.feather,feather-from-mzML,0.19427704811096191,Format,21.156282424926758
+./input/MTBLS1569/data/feather/from_mzML/Tx_6h_R2.feather,feather-from-mzML,0.23117446899414062,Read only,21.46640968322754
+./input/MTBLS1569/data/feather/from_mzML/Tx_6h_R2.feather,feather-from-mzML,0.19027280807495117,Format,21.46640968322754
+./input/MTBLS1569/data/feather/from_mzML/Tx_3h_R2.feather,feather-from-mzML,0.2343766689300537,Read only,24.020967483520508
+./input/MTBLS1569/data/feather/from_mzML/Tx_3h_R2.feather,feather-from-mzML,0.18699288368225098,Format,24.020967483520508
+./input/MTBLS1569/data/feather/from_mzML/Tx_3h_R1.feather,feather-from-mzML,0.273923397064209,Read only,23.60283088684082
+./input/MTBLS1569/data/feather/from_mzML/Tx_3h_R1.feather,feather-from-mzML,0.37320923805236816,Format,23.60283088684082
+./input/MTBLS1569/data/feather/from_mzML/Tx_6h_R4.feather,feather-from-mzML,0.3088529109954834,Read only,21.7593936920166
+./input/MTBLS1569/data/feather/from_mzML/Tx_6h_R4.feather,feather-from-mzML,0.39843034744262695,Format,21.7593936920166
+./input/MTBLS1569/data/feather/from_mzML/Tx_6h_R1.feather,feather-from-mzML,0.39032530784606934,Read only,22.40659523010254
+./input/MTBLS1569/data/feather/from_mzML/Tx_6h_R1.feather,feather-from-mzML,0.4164307117462158,Format,22.40659523010254
+./input/MTBLS1569/data/feather/from_mzML/Tx_1h_R2.feather,feather-from-mzML,0.3573634624481201,Read only,23.75773048400879
+./input/MTBLS1569/data/feather/from_mzML/Tx_1h_R2.feather,feather-from-mzML,0.44917893409729004,Format,23.75773048400879
+./input/MTBLS1569/data/feather/from_mzML/Tx_3h_R4.feather,feather-from-mzML,0.4090919494628906,Read only,23.971933364868164
+./input/MTBLS1569/data/feather/from_mzML/Tx_3h_R4.feather,feather-from-mzML,0.48004651069641113,Format,23.971933364868164
+./input/MTBLS1569/data/feather/from_mzML/Tx_3h_R3.feather,feather-from-mzML,0.3865346908569336,Read only,24.45615577697754
+./input/MTBLS1569/data/feather/from_mzML/Tx_3h_R3.feather,feather-from-mzML,0.4536614418029785,Format,24.45615577697754
+./input/MTBLS1569/data/feather/from_mzML/Tx_1h_R1.feather,feather-from-mzML,0.2621316909790039,Read only,23.07780647277832
+./input/MTBLS1569/data/feather/from_mzML/Tx_1h_R1.feather,feather-from-mzML,0.39015913009643555,Format,23.07780647277832
+./input/MTBLS1569/data/feather/from_mzML/Tx_1h_R3.feather,feather-from-mzML,0.3965470790863037,Read only,23.337007522583008
+./input/MTBLS1569/data/feather/from_mzML/Tx_1h_R3.feather,feather-from-mzML,0.36870789527893066,Format,23.337007522583008
